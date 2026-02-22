@@ -6,8 +6,6 @@ model = joblib.load("bank_model.pkl")
 
 st.title("🏦 Bank Term Deposit Prediction App")
 
-st.write("Model Loaded Successfully ✅")\
-
 st.subheader("📋 Enter Customer Information")
 
 # ----------------------------
